@@ -1,5 +1,7 @@
 # Proyecto Final - Sistemas Operativos: Construcción de un Servidor Web Básico
 
+![Ejecución](https://github.com/user-attachments/assets/d988d794-08e7-410b-b2fc-48af134cca0c)
+
 ---
 
 ## Recursos Útiles
