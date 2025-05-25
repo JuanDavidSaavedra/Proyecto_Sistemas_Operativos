@@ -5,7 +5,7 @@
 ## Recursos Útiles
 
 - [Página del curso](https://sites.google.com/saber.uis.edu.co/sistemas-operativos/inicio)
-- [Repositorio base del servidor](https://github.com/Dungyichao/http_server/tree/master/Project)
+- [Repositorio original](https://github.com/Dungyichao/http_server/tree/master/Project)
 
 ---
 
