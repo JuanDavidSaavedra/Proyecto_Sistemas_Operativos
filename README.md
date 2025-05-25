@@ -1,5 +1,9 @@
 # Proyecto Final - Sistemas Operativos: Construcción de un Servidor Web Básico
 
+<p align="center">
+  <img src="[assets/demo.gif](https://github.com/user-attachments/assets/d988d794-08e7-410b-b2fc-48af134cca0c)" width="600"/>
+</p>
+
 ![Ejecución](https://github.com/user-attachments/assets/d988d794-08e7-410b-b2fc-48af134cca0c)
 
 ---
