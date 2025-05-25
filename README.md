@@ -1,5 +1,14 @@
 # Proyecto Final - Sistemas Operativos: Construcción de un Servidor Web Básico
 
+---
+
+## Recursos Útiles
+
+- [Página del curso](https://sites.google.com/saber.uis.edu.co/sistemas-operativos/inicio)
+- [Repositorio base del servidor](https://github.com/Dungyichao/http_server/tree/master/Project)
+
+---
+
 ## Descripción
 
 Este proyecto consiste en la implementación de un **servidor web básico** utilizando **Linux** y **C++**, aplicando los fundamentos de programación de sistemas y redes. Su objetivo principal es enseñar la arquitectura cliente-servidor y cómo se maneja la comunicación HTTP mediante sockets en un entorno local.
@@ -77,16 +86,3 @@ El servidor implementado realiza las siguientes funciones:
 - Analiza el mensaje y determina el recurso solicitado.
 - Devuelve la respuesta HTTP correspondiente (200 OK o 404 Not Found).
 - Utiliza `fork()` para gestionar múltiples conexiones simultáneas.
-
----
-
-## Recursos Útiles
-
-- [Página del curso](https://sites.google.com/saber.uis.edu.co/sistemas-operativos/inicio)
-- [Repositorio base del servidor](https://github.com/Dungyichao/http_server/tree/master/Project)
-
----
-
-## Licencia
-
-Proyecto académico con fines educativos.
