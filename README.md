@@ -95,26 +95,38 @@ Paso a paso para implementar el servidor (Versión reducida)
 # 2. copia y pega las librerías necesarias
 
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #include <string.h>
+
 #include <unistd.h>
+
 #include <fcntl.h>
+
 #include <sys/socket.h>
+
 #include <netinet/in.h>
+
 #include <sys/sendfile.h>
+
 #include <sys/stat.h>
+
 
 # 3. define el puerto
 
 #define PORT 8081
 
-# 4. Crea la función principal
+# 4. 
 
-int main() {
-    int server_fd, client_fd;
-    struct sockaddr_in addr;
-    socklen_t addrlen = sizeof(addr);
-    char buffer[1024] = {0};
+   // Crea la función principal
+   
+   int main() {
+
+       int server_fd, client_fd;
+       struct sockaddr_in addr;
+       socklen_t addrlen = sizeof(addr);
+       char buffer[1024] = {0};
 
 # 5.
 
