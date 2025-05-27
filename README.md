@@ -87,9 +87,9 @@ El servidor implementado realiza las siguientes funciones:
 - Devuelve la respuesta HTTP correspondiente (200 OK o 404 Not Found).
 - Utiliza `fork()` para gestionar múltiples conexiones simultáneas.
 
+---
 
-
-# Paso a paso para implementar el servidor (Versión reducida)
+## Paso a paso para implementar el servidor (Versión reducida)
 
 ### 1. Crear el archivo `helloworld.cpp`
 
