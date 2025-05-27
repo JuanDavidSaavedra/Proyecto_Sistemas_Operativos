@@ -93,7 +93,7 @@ El servidor implementado realiza las siguientes funciones:
 
 ### 1. Crear el archivo `helloworld.cpp`
 
-### 2. Copiar y pegar las librerías necesarias
+### 2. Añadir las librerías necesarias
 
 ```c
 #include <stdio.h>
